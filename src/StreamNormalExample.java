@@ -25,4 +25,5 @@ public class StreamNormalExample {
 //        studentsExampleNormalList.parallelStream().map()
     }
 
+
 }
