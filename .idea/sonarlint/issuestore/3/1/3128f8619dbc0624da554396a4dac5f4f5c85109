@@ -1,0 +1,6 @@
+
+7
+java:S1220""Move this file to a named package.8µ‚ËŞ1
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(’†Œ‚8¼‚ËŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ï—Ÿ¹üÿÿÿÿ8½‚ËŞ1
