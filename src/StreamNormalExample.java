@@ -24,4 +24,5 @@ public class StreamNormalExample {
                 new StudentsExampleNormal("Sourabh",23));
 //        studentsExampleNormalList.parallelStream().map()
     }
+
 }
